@@ -2,12 +2,12 @@
 The purpose was to implement a method proposed in literature to detect initial contacts of the walking motor task on forward direction
 accelerometry signals acquired from a single accelerometer at pelvis level, with particular interest in thorny signals acquired from
 hemiplegic subjects. Furthermore an innovative algorithm remarkably outperforming the aforementioned in terms of accuracy has been
-proposed. Read Report.pdf for more detailed technical description of the project.
+proposed. Read REPORT.pdf for more detailed technical description of the project.
 
 This project is licensed under the terms of the MIT license.
 
 ## Attached files
-In ./Attachments/ subfolder (please read the report before for a better understanding of attachments' description):
+In ./Attachments/ subfolder (please read the report -REPORT.pdf- before for a better understanding of attachments' description):
 * Main_I_BUPA.m: main implementing the initial contact instants and stride duration estimation;
 * Main_II_BUPA.m: main implementing the performance analysis of the found estimates with respect to used gold standard (GaitRite electronic walkway); 
 * 01_data/: subfolder containing the .mat format files of the time series signals under analysis;
