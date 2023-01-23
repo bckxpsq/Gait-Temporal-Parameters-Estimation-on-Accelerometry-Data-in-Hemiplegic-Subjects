@@ -1,0 +1,1 @@
+# Gait-temporal-parameters-estimation-from-accelerometry-data
